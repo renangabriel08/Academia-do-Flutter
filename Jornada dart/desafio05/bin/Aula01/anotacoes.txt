@@ -1,0 +1,6 @@
+DTO
+    -> Armazenar apenas dados que serão utilizados em uma unica classe
+
+MODELO DE DOMINIO
+    -> Utilizar todos dados que vem do backend;
+    -> Dados brutos do banco de dados

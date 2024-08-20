@@ -1,0 +1,82 @@
+[
+    {
+        "cidade": "São Paulo",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Campinas",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Santos",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Sorocaba",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Ribeirão Preto",
+        "estado": "SP"
+    },
+    {
+        "cidade": "São José dos Campos",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Guarulhos",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Osasco",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Mogi das Cruzes",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Bauru",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Piracicaba",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Jundiaí",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Franca",
+        "estado": "SP"
+    },
+    {
+        "cidade": "São Carlos",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Limeira",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Araraquara",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Presidente Prudente",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Marília",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Itu",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Taubaté",
+        "estado": "SP"
+    }
+]

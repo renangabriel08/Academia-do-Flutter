@@ -1,0 +1,9 @@
+ABSTRAÇÃO
+    -> Retirar características em comum em um objeto
+    -> Baseado nessas características, surge novas variantes
+    -> Ex: Toda cadeira tem encosto e acento
+
+ENCAPSULAMENTO
+    -> Esconder como algo é feito, mostrando apenas o resultado
+    -> Ocultação de informações
+    -> É utilizado para deixar mais simples para o usuário

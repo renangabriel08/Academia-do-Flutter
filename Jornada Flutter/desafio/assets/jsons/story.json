@@ -1,0 +1,86 @@
+[
+    {
+        "nome": "Seu Story",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "Bruno",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": true,
+        "cf": false
+    },
+    {
+        "nome": "Maria Eduarda",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": true
+    },
+    {
+        "nome": "Carla Maria",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": true
+    },
+    {
+        "nome": "Daniel",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "Elisa",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "Fernanda",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "Gabriel",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "Helena",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "Isabela",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "João Pedro",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "Larissa",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "Marcos Paulo",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    },
+    {
+        "nome": "Nina",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "live": false,
+        "cf": false
+    }
+]

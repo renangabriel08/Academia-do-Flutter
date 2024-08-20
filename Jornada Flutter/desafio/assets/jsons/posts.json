@@ -1,0 +1,58 @@
+[
+    {
+        "nome": "Renan Gabriel",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "post": "https://img.freepik.com/fotos-premium/paisagem-natural-de-grandes-campos-ao-por-do-sol_839169-13982.jpg",
+        "curtidas": 1520,
+        "desc": "Explorando a natureza em um lindo dia de sol, sentindo a brisa e apreciando a paisagem.",
+        "comentarios": 81
+    },
+    {
+        "nome": "Maria Fernanda",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "post": "https://img.freepik.com/fotos-premium/paisagem-natural-de-grandes-campos-ao-por-do-sol_839169-13982.jpg",
+        "curtidas": 1780,
+        "desc": "Um pôr do sol deslumbrante.",
+        "comentarios": 102
+    },
+    {
+        "nome": "Carlos Eduardo",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "post": "https://img.freepik.com/fotos-premium/paisagem-natural-de-grandes-campos-ao-por-do-sol_839169-13982.jpg",
+        "curtidas": 1340,
+        "desc": "Curtindo a tranquilidade dos grandes campos ao pôr do sol, um momento de paz e reflexão.",
+        "comentarios": 67
+    },
+    {
+        "nome": "Ana Beatriz",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "post": "https://img.freepik.com/fotos-premium/paisagem-natural-de-grandes-campos-ao-por-do-sol_839169-13982.jpg",
+        "curtidas": 1890,
+        "desc": "Paisagem incrível!",
+        "comentarios": 89
+    },
+    {
+        "nome": "João Pedro",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "post": "https://img.freepik.com/fotos-premium/paisagem-natural-de-grandes-campos-ao-por-do-sol_839169-13982.jpg",
+        "curtidas": 1430,
+        "desc": "Admirando a beleza do entardecer e a serenidade que ele traz.",
+        "comentarios": 78
+    },
+    {
+        "nome": "Larissa Gomes",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "post": "https://img.freepik.com/fotos-premium/paisagem-natural-de-grandes-campos-ao-por-do-sol_839169-13982.jpg",
+        "curtidas": 1550,
+        "desc": "Momentos como este são inesquecíveis.",
+        "comentarios": 95
+    },
+    {
+        "nome": "Felipe Alves",
+        "img": "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png",
+        "post": "https://img.freepik.com/fotos-premium/paisagem-natural-de-grandes-campos-ao-por-do-sol_839169-13982.jpg",
+        "curtidas": 1620,
+        "desc": "Nada como um fim de tarde em um lugar tão bonito quanto este. A natureza realmente nos oferece os melhores espetáculos.",
+        "comentarios": 110
+    }
+]
